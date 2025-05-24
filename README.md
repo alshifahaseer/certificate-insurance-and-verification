@@ -125,6 +125,4 @@ We welcome contributions from the community. Please review our contributing guid
 This project is licensed under the MIT License - see the LICENSE file for details.
 contract adress: 0x5D2e12d93EA2Bf5E3dDEa0f0cB721a93820deD82
 
-![image](https://github.com/user-attachments/assets/714455bf-8feb-4aaa-8643-df314581e2c2)
-
-
+![Screenshot 2025-05-21 183819](https://github.com/user-attachments/assets/42cfe2bf-f397-44ff-ae2d-d5cf5c268e30)
