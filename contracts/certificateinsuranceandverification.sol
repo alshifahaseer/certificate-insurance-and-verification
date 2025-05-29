@@ -12,7 +12,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 contract Project is Ownable, ReentrancyGuard {
     using Counters for Counters.Counte
     
-    constructor() Ownable(msg.sender) {
+    constructor() Ownable(msg.sender)
         // Initialize the contract with the deployer as the initial owner
     }
     
