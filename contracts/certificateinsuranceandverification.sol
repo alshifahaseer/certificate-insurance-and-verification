@@ -3,8 +3,7 @@ pragma solidity ^0.8.19;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
-import "@openzeppelin/contracts/utils/Counters.sol";
-
+import "@openzeppelin/contracts/utils/Counters.sol
 /**
  * @title Certificate Insurance and Verification System
  * @dev Smart contract for managing digital certificates with insurance capabilities
