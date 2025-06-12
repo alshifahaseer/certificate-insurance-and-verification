@@ -13,8 +13,6 @@ contract Project is Ownable, ReentrancyGuard {
     
     constructor() Ownable(msg.sender)
         // Initialize the contract with the deployer as the initial owner
-    }
-    
     Counters.Counter private _certificateIds;
     
     struct Certificate {
