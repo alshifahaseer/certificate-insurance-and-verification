@@ -8,9 +8,7 @@ import "@openzeppelin/contracts/utils/Counters.sol
  * @title Certificate Insurance and Verification System
  * @dev Smart contract for managing digital certificates with insurance capabilities
  */
-contract Project is Ownable, ReentrancyGuard {
-    using Counters for Counters.Counte
-    
+contract Project is Ownable, ReentrancyGu
     constructor() Ownable(msg.sender)
         // Initialize the contract with the deployer as the initial owner
     Counters.Counter private _certificateIds;
