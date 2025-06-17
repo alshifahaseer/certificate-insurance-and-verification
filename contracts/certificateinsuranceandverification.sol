@@ -13,7 +13,7 @@ contract Project is Ownable, ReentrancyGu
         // Initialize the contract with the deployer as the initial owner
     Counters.Counter private _certificateIds;
 constructor() Ownable(msg.sender)
-        // Initialize the contract with the deployer as the initial owner
+        // Initialize the contract with theer as the initial owner
     Counters.Counter private _certificateIds;
     
     struct Certificate {
