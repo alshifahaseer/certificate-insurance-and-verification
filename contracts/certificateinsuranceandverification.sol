@@ -92,19 +92,7 @@ constructor() Ownable(msg.sender)
      * @param _expiryDays Number of days until expiry
      * @param _ipfsHash IPFS hash of the certificate document
      */
-    function issueCertificate(
-        string memory _name,
-        string memory _issuer,
-        address _holder,
-        uint256 _expiryDays,
-        string memory _ipfsHash
-    ) external onlyOwner returns (uint256) {
-        require(bytes(_name).length > 0, "Certificate name cannot be empty");
-        require(bytes(_issuer).length > 0, "Issuer cannot be empty");
-        require(_holder != address(0), "Invalid holder address");
-        require(_expiryDays > 0, "Expiry days must be positive");
-        require(bytes(_ipfsHash).length > 0, "IPFS hash cannot be empty");
-        require(!usedHashes[_ipfsHash], "IPFS hash already used");
+ 
         
         _certificateIds.increment();
         uint256 newCertificateId = _certificateIds.current();
