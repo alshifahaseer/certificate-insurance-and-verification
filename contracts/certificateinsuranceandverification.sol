@@ -75,9 +75,7 @@ constructor() Ownable(msg.sender)
     
     modifier validCertificate(uint256 _certificateId) {
         require(_certificateId > 0 && _certificateId <= _certificateIds.current(), "Invalid certificate ID");
-        require(certificates[_certificateId].isValid, "Certificate is not valid");
-        _;
-    }
+        require(certificates[_certificateId].isValid, "Certificate is not valid")
     
     modifier onlyCertificateHolder(uint256 _certificateId) {
         require(certificates[_certificateId].holder == msg.sender, "Not the certificate holder");
