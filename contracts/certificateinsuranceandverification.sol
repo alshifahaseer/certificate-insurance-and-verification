@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: 
+// SPDX-License-Identifier: mit
 pragma solidity ^0.8.19;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
@@ -197,4 +197,5 @@ contract Project is Ownable, ReentrancyGuard {
         insurancePool += msg.value;
     }
 }
+
 
