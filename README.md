@@ -14,7 +14,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 - Educational institutions, professional bodies, and certification authorities can issue verifiable credentials with complete transparency
 - Employers and verifiers can instantly authenticate certificates without contacting issuing authorities
 - Certificate holders have financial protection against institutional failures or malicious actions
-- A decentralized network of trust replaces centralized verification systems
+- A decentralized network of trust replaces centralized verification systems.
 
 ## Key Features
 
