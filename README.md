@@ -19,7 +19,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 ## Key Features
 
 ### Core Functionality
-- **Decentralized Certificate Issuance**: Authorized issuers can create tamper-proof digital certificates stored permanently on the blockchain
+- **Decentralized Certificate Issuance**: Authorized issuers can create tamper-proof digital certificates stored permanently on the blockchain.
 - **Instant Verification**: Anyone can verify certificate authenticity and validity status in real-time without intermediaries
 - **Insurance Coverage**: Certificate holders can purchase insurance policies to protect against financial losses from certificate invalidation
 
