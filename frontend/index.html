@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate Insurance & Verification</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Certificate Insurance & Verification</h1>
+
+        <form id="verificationForm">
+            <label for="certificateId">Certificate ID:</label>
+            <input type="text" id="certificateId" name="certificateId" required placeholder="Enter Certificate ID">
+
+            <button type="submit">Verify Certificate</button>
+        </form>
+
+        <div id="result" class="hidden">
+            <h3>Verification Result:</h3>
+            <p id="verificationStatus"></p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
