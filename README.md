@@ -24,7 +24,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 - **Insurance Coverage**: Certificate holders can purchase insurance policies to protect against financial losses from certificate invalidation.
 
 ### Advanced Security
-- **IPFS Integration**: Certificate documents are stored on IPFS with hash references on-chain, ensuring document integrity and decentralized storage
+- **IPFS Integration**: Certificate documents are stored on IPFS with hash references on-chain, ensuring document integrity and decentralized storage.
 - **Access Control**: Role-based permissions ensure only authorized entities can issue or revoke certificates
 - **Reentrancy Protection**: Advanced security measures prevent common smart contract vulnerabilities
 
