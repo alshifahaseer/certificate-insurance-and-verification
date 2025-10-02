@@ -29,7 +29,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 - **Reentrancy Protection**: Advanced security measures prevent common smart contract vulnerabilities.
 
 ### Insurance Mechanism
-- **Risk-Based Premiums**: Insurance premiums calculated as 5% of certificate value, creating sustainable risk pooling
+- **Risk-Based Premiums**: Insurance premiums calculated as 5% of certificate value, creating sustainable risk pooling.
 - **Automated Claims Processing**: Smart contract automatically processes valid insurance claims without manual intervention
 - **Community Insurance Pool**: Collective premium pool ensures sufficient funds for legitimate claims
 
