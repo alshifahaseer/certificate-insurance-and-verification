@@ -31,7 +31,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 ### Insurance Mechanism
 - **Risk-Based Premiums**: Insurance premiums calculated as 5% of certificate value, creating sustainable risk pooling.
 - **Automated Claims Processing**: Smart contract automatically processes valid insurance claims without manual intervention.
-- **Community Insurance Pool**: Collective premium pool ensures sufficient funds for legitimate claims
+- **Community Insurance Pool**: Collective premium pool ensures sufficient funds for legitimate claims.
 
 ### Transparency Features
 - **Public Verification**: All certificate details (except sensitive personal information) are publicly verifiable
