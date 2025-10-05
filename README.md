@@ -34,7 +34,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 - **Community Insurance Pool**: Collective premium pool ensures sufficient funds for legitimate claims.
 
 ### Transparency Features
-- **Public Verification**: All certificate details (except sensitive personal information) are publicly verifiable
+- **Public Verification**: All certificate details (except sensitive personal information) are publicly verifiable.
 - **Audit Trail**: Complete history of certificate lifecycle events stored immutably on blockchain
 - **Real-time Status**: Live updates on certificate validity, insurance status, and expiration dates
 
