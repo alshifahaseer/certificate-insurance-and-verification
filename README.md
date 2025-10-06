@@ -35,7 +35,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 
 ### Transparency Features
 - **Public Verification**: All certificate details (except sensitive personal information) are publicly verifiable.
-- **Audit Trail**: Complete history of certificate lifecycle events stored immutably on blockchain
+- **Audit Trail**: Complete history of certificate lifecycle events stored immutably on blockchain.
 - **Real-time Status**: Live updates on certificate validity, insurance status, and expiration dates
 
 ## Technical Implementation
