@@ -44,7 +44,7 @@ By leveraging blockchain's immutable nature and smart contract automation, we en
 The Project.sol contract implements three core functions:
 
 1. **issueCertificate()**: Creates new certificates with metadata, expiry dates, and IPFS document hashes.
-2. **verifyCertificate()**: Provides instant verification of certificate authenticity and current status
+2. **verifyCertificate()**: Provides instant verification of certificate authenticity and current status.
 3. **purchaseInsurance()**: Enables certificate holders to buy insurance coverage with automated premium calculation
 
 ### Data Structures
