@@ -48,7 +48,7 @@ The Project.sol contract implements three core functions:
 3. **purchaseInsurance()**: Enables certificate holders to buy insurance coverage with automated premium calculation.
 
 ### Data Structures
-- **Certificate Struct**: Comprehensive certificate metadata including holder, issuer, dates, and insurance details
+- **Certificate Struct**: Comprehensive certificate metadata including holder, issuer, dates, and insurance details.
 - **Insurance Policy Struct**: Policy terms, coverage amounts, and activation status
 - **Mapping Systems**: Efficient data retrieval for holder certificates and hash uniqueness verification
 
