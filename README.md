@@ -50,7 +50,7 @@ The Project.sol contract implements three core functions:
 ### Data Structures
 - **Certificate Struct**: Comprehensive certificate metadata including holder, issuer, dates, and insurance details.
 - **Insurance Policy Struct**: Policy terms, coverage amounts, and activation status.
-- **Mapping Systems**: Efficient data retrieval for holder certificates and hash uniqueness verification
+- **Mapping Systems**: Efficient data retrieval for holder certificates and hash uniqueness verification.
 
 ### Security Features
 - OpenZeppelin integration for battle-tested security patterns
