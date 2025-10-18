@@ -53,7 +53,7 @@ The Project.sol contract implements three core functions:
 - **Mapping Systems**: Efficient data retrieval for holder certificates and hash uniqueness verification.
 
 ### Security Features
-- OpenZeppelin integration for battle-tested security patterns
+- OpenZeppelin integration for battle-tested security patterns.
 - Ownership controls for administrative functions
 - Reentrancy guards for financial operations
 - Input validation for all user-facing functions
