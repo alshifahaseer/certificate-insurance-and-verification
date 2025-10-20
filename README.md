@@ -54,7 +54,7 @@ The Project.sol contract implements three core functions:
 
 ### Security Features
 - OpenZeppelin integration for battle-tested security patterns.
-- Ownership controls for administrative functions
+- Ownership controls for administrative functions.
 - Reentrancy guards for financial operations
 - Input validation for all user-facing functions
 
