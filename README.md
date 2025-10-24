@@ -61,7 +61,7 @@ The Project.sol contract implements three core functions:
 ## Future Scope
 
 ### Short-term Enhancements (3-6 months)
-- **Multi-signature Support**: Require multiple signatures for high-value certificate issuance
+- **Multi-signature Support**: Require multiple signatures for high-value certificate issuance.
 - **Batch Operations**: Enable bulk certificate issuance and verification for educational institutions
 - **Mobile Application**: User-friendly mobile app for certificate management and verification
 - **API Gateway**: RESTful API for easy integration with existing institutional systems
