@@ -68,7 +68,7 @@ The Project.sol contract implements three core functions:
 
 ### Medium-term Development (6-12 months)
 - **Cross-chain Compatibility**: Expand to multiple blockchain networks for broader accessibility.
-- **Advanced Insurance Products**: Tiered insurance levels with different coverage options and premium structures
+- **Advanced Insurance Products**: Tiered insurance levels with different coverage options and premium structures.
 - **Reputation System**: Scoring mechanism for issuers based on certificate quality and claim history
 - **Integration Partnerships**: Direct integration with major educational platforms and professional certification bodies
 
