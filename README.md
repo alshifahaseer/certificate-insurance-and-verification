@@ -74,7 +74,7 @@ The Project.sol contract implements three core functions:
 
 ### Long-term Vision (1-3 years)
 - **AI-Powered Fraud Detection**: Machine learning algorithms to identify suspicious certification patterns.
-- **Decentralized Autonomous Organization (DAO)**: Community governance for system parameters and dispute resolution
+- **Decentralized Autonomous Organization (DAO)**: Community governance for system parameters and dispute resolution.
 - **Professional Licensing Integration**: Partnership with government bodies for official license verification
 - **Global Certification Network**: Interconnected system with international educational and professional institutions
 
