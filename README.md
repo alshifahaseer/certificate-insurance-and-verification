@@ -76,7 +76,7 @@ The Project.sol contract implements three core functions:
 - **AI-Powered Fraud Detection**: Machine learning algorithms to identify suspicious certification patterns.
 - **Decentralized Autonomous Organization (DAO)**: Community governance for system parameters and dispute resolution.
 - **Professional Licensing Integration**: Partnership with government bodies for official license verification.
-- **Global Certification Network**: Interconnected system with international educational and professional institutions
+- **Global Certification Network**: Interconnected system with international educational and professional institutions.
 
 ### Scalability and Performance
 - **Layer 2 Solutions**: Implementation of scaling solutions to reduce transaction costs and increase throughput
