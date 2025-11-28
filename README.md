@@ -80,7 +80,7 @@ The Project.sol contract implements three core functions:
 
 ### Scalability and Performance
 - **Layer 2 Solutions**: Implementation of scaling solutions to reduce transaction costs and increase throughput.
-- **Optimized Storage**: Advanced IPFS pinning strategies and data compression for efficient storage
+- **Optimized Storage**: Advanced IPFS pinning strategies and data compression for efficient storage.
 - **Caching Mechanisms**: Off-chain caching for frequently accessed verification data
 
 ### Advanced Features
